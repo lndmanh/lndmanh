@@ -9,8 +9,8 @@
 
 💡 My current interests include:
 
-- **Physics-Informed Deep Learning** and its applications in material science
-- **Distributed web systems** and scalable backend services
+- **Deep Learning** and its applications in solving practical problems
+- **Distributed web systems** and scalable SaaS infrastructures
 
 
 🌍 Explore more about our projects at **[https://nnsvn.me/showcase](https://nnsvn.me/showcase)**
