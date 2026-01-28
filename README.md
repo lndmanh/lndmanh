@@ -4,7 +4,7 @@
 
 ## 🚀 Introduction
 
-👋 Hi, I'm **Le Ngo Duc Manh**, Founder of [**No Name Studio**](https://nnsvn.me) and a Research Assistant at [**IMU Lab**](https://imu.edu.vn). I mainly focus in **Deep Learning** and **Application Development** — building intelligent, scalable applications.
+👋 Hi, I'm **Le Ngo Duc Manh**, Founder of [**No Name Studio**](https://nnsvn.me) and a Research Assistant at [**IMU Lab**](https://imu.edu.vn).
 
 
 💡 My current interests include:
