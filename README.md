@@ -4,32 +4,24 @@
 
 ## 🚀 Introduction
 
-👋 Hi, I'm **Le Ngo Duc Manh**, Founder of [**No Name Studio**](https://nnsvn.me) and a Research Assistant at [**IMU Lab**](https://imu.edu.vn).
+👋 Hi, I'm **Le Ngo Duc Manh**, Founder of [**No Name Studio**](https://nnsvn.me) and a Research Assistant at [**UMI Lab**](https://umilab.vn).
 
 
 💡 My current interests include:
 
-- **Deep Learning** and its applications in solving practical problems
 - **Distributed web systems** and scalable SaaS infrastructures
+- **Deep Learning** and its applications in solving practical problems
 
 
-🌍 Explore more about our projects at **[https://nnsvn.me/showcase](https://nnsvn.me/showcase)**
+🌍 Explore more about our projects at **[https://nnsvn.me](https://nnsvn.me)**
 
-📚 Discover my publications at **[https://myt.nnsvn.me/publications](https://myt.nnsvn.me/publications)**
+📚 Discover my publications at **[https://nnsvn.me/myt](https://nnsvn.me/myt)**
 
 📫 Reach out via **[myt@nnsvn.me](mailto:myt@nnsvn.me)**
 
 🌐 Connect with me: [Twitter](https://twitter.com/nn_myt) • [LinkedIn](https://linkedin.com/in/nnmyt) • [YouTube](https://www.youtube.com/c/nn_myt)
 
 🎵 Check out my Soundcloud too: [Soundcloud](https://soundcloud.com/nn_myt)
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Hello World](https://myt.nnsvn.me/blog/hello-world/)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
